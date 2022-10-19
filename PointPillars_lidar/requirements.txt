@@ -1,0 +1,5 @@
+numba
+open3d
+pointpillars.egg
+PyYAML
+setuptools
